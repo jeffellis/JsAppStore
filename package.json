@@ -1,0 +1,18 @@
+{
+  "name": "JsAppStore",
+  "version": "0.0.0",
+  "description": "A Javascript App Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffellis/JsAppStore.git"
+  },
+  "author": "Jeff Ellis & Matt McClellan",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/jeffellis/JsAppStore/issues"
+  }
+}
