@@ -15,8 +15,15 @@
   "bugs": {
     "url": "https://github.com/jeffellis/JsAppStore/issues"
   },
+  "files": [
+    "lib"
+  ],
   "dependencies": {
     "express": "~3.4.7",
-    "coffee-script": "~1.6.3"
+    "coffee-script": "~1.6.3",
+    "coffee": "0.0.1",
+    "async": "~0.2.9",
+    "colors": "~0.6.2",
+    "lodash": "~2.4.1"
   }
 }
