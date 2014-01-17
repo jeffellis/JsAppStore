@@ -2,27 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JsAppStore.ipr" afterPath="$PROJECT_DIR$/JsAppStore.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JsAppStore.iws" afterPath="$PROJECT_DIR$/JsAppStore.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appstore" afterPath="$PROJECT_DIR$/appstore" />
     </list>
     <ignored path="JsAppStore.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389963459570" ignored="false" />
     <file path="/bigbang" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389392813632" ignored="false" />
     <file path="/app.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389395475572" ignored="false" />
-    <file path="/index.html" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389394971819" ignored="false" />
+    <file path="/index.html" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389991292366" ignored="false" />
     <file path="/AppContainer.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389394179353" ignored="false" />
     <file path="$PROJECT_DIR$/../alm/alm-webapp/src/main/webapp/js/rally/ui/dashboard/AppContainer.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389396512674" ignored="false" />
     <file path="$PROJECT_DIR$/../alm/alm-webapp/src/main/webapp/js/alm/src/ui/dashboard/AppCatalogDialog.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389396492087" ignored="false" />
-    <file path="$PROJECT_DIR$/../alm/alm-webapp/src/main/webapp/js/rally/app/DashboardPage.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389396498598" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/src/main/webapp/js/rally/app/DashboardPage.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389987150817" ignored="false" />
     <file path="$PROJECT_DIR$/../alm/alm-webapp/src/main/webapp/js/rally/ui/dashboard/PanelPanel.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389396504901" ignored="false" />
     <file path="$PROJECT_DIR$/../alm/alm-webapp/src/main/webapp/js/rally/ui/dashboard/panels/kanban/KanbanPanel.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389396554711" ignored="false" />
     <file path="/a.coffee" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389963659476" ignored="false" />
     <file path="/package.json" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389964225869" ignored="false" />
     <file path="/default.coffee" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389964507981" ignored="false" />
     <file path="/index.coffee" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389964590483" ignored="false" />
-    <file path="/appstore" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389968383012" ignored="false" />
+    <file path="/appstore" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389993912422" ignored="false" />
+    <file path="$PROJECT_DIR$/../appsdk/rui/src/ui/picker/MultiObjectPicker.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389975642904" ignored="false" />
+    <file path="/MultiObjectPicker.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389975619994" ignored="false" />
+    <file path="$PROJECT_DIR$/../appsdk/rui/packages/rui/sass/src/detail/_subpagetoggle.scss" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389982575940" ignored="false" />
+    <file path="/a.dummy" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389989073571" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/src/main/webapp/js/rally/ui/dashboard/AppStoreAppPanel.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389984132926" ignored="false" />
+    <file path="/AppStoreAppPanel.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389984132926" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/docs/extjs/ext-all.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560234" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/ext-all.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560234" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/examples/build/KitchenSink/ext-theme-classic/all-classes.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/builds/ext-all-rtl-sandbox-dev.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/js_dependencies.json" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/builds/ext-all-sandbox.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/builds/ext-all-sandbox-debug-w-comments.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/builds/ext-all-rtl-sandbox-debug-w-comments.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/ext-all-debug.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/builds/ext-all-sandbox-debug.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/ext-all-rtl-debug-w-comments.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/ext-all-dev.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/builds/ext-all-sandbox-dev.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/ext-all-debug-w-comments.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/builds/ext-all-rtl-sandbox-debug.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/ext-all-rtl-debug.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/package.json" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/ext-all-rtl-dev.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/src/form/field/ComboBox.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/examples/build/KitchenSink/ext-theme-access/all-classes.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/workspace/ext/examples/build/KitchenSink/ext-theme-neptune/all-classes.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389986560246" ignored="false" />
+    <file path="$PROJECT_DIR$/../alm/alm-webapp/src/main/webapp/js/rally/ui/dashboard/panels/tipoftheday/TipOfTheDayPanel.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389993348366" ignored="false" />
+    <file path="/TipOfTheDayPanel.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389993348366" ignored="false" />
+    <file path="/TipOfTheDayApp.js" changelist="f935a9c9-82b0-480a-b7b5-b4f9eabeeeb3" time="1389988869912" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +124,25 @@
       <file leaf-file-name="appstore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/appstore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="32" selection-start="3079" selection-end="3079" vertical-scroll-proportion="0.6902655">
+            <state line="80" column="20" selection-start="2774" selection-end="2774" vertical-scroll-proportion="0.50442475">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/apps/tipoftheday/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="28" selection-start="512" selection-end="512" vertical-scroll-proportion="-6.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TipOfTheDayApp.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/apps/tipoftheday/TipOfTheDayApp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="51" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,15 +184,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repo/hello/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="4" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -173,6 +211,8 @@
         <option value="$PROJECT_DIR$/config/default.coffee" />
         <option value="$PROJECT_DIR$/config/index.coffee" />
         <option value="$PROJECT_DIR$/lib/BigbangEnv.coffee" />
+        <option value="$PROJECT_DIR$/public/apps/tipoftheday/TipOfTheDayApp.js" />
+        <option value="$PROJECT_DIR$/public/apps/tipoftheday/index.html" />
         <option value="$PROJECT_DIR$/appstore" />
       </list>
     </option>
@@ -238,11 +278,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="repo" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tipoftheday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JsAppStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JsAppStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -505,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repo/hello/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
@@ -519,23 +574,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repo/hello/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="0" selection-start="599" selection-end="599" vertical-scroll-proportion="-17.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/index.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -554,6 +595,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="23" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/apps/tipoftheday/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="28" selection-start="512" selection-end="512" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/apps/tipoftheday/TipOfTheDayApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="51" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="417" vertical-scroll-proportion="0.0">
@@ -563,7 +625,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/appstore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="32" selection-start="3079" selection-end="3079" vertical-scroll-proportion="0.6902655">
+        <state line="80" column="20" selection-start="2774" selection-end="2774" vertical-scroll-proportion="0.50442475">
           <folding />
         </state>
       </provider>

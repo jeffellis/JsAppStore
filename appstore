@@ -76,6 +76,10 @@ if process.env.PROC_MASTER or APP.name is 'repl'
     else
         express = require('express');
         app = express();
+        app.use (req, res, next) ->
+            res.setHeader("Access-Control-Allow-Origin", "*")
+            res.setHeader("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+            return next()
 
         app.get '/', (request, response) ->
             response.send "This would be some HTML"
