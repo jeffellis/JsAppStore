@@ -1,11 +1,20 @@
-(function() {
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tip of the Day</title>
+
+    <script type="text/javascript" src="/apps/x/sdk.js"></script>
+
+    <script type="text/javascript">
+        Rally.onReady(function () {
+                (function() {
     var Ext = window.Ext4 || window.Ext;
 
     /**
      * Tip of the Day App
      * View a new Rally tip every day
      */
-    Ext.define('AppStore.tipoftheday.TipOfTheDayApp', {
+    Ext.define('Rally.apps.tipoftheday.TipOfTheDayApp', {
         extend: 'Rally.app.App',
 
         layout: 'auto',
@@ -131,7 +140,7 @@
 
             var randomNumber = Math.floor(Math.random()*(tips.length-1));
             var template = new Ext.Template([
-                '<div class="tipheader">AppStore -- Rally Tip #' + randomNumber + '</div>',
+                '<div class="tipheader">Rally Tip #' + randomNumber + '</div>',
                 '<div class="tipcontent">' + tips[randomNumber] + '</div>'
             ]);
 
@@ -140,3 +149,35 @@
 
         });
 })();
+
+
+            Rally.launchApp('Rally.apps.tipoftheday.TipOfTheDayApp', {
+                name:"Tip of the Day",
+	            parentRepos:""
+            });
+
+        });
+    </script>
+
+
+    <style type="text/css">
+        .tip-of-the-day-app {
+    font-family: "Trebuchet MS", arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.tip-of-the-day-app .tipheader {
+    font-size: 12pt;
+    color: #666;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.tip-of-the-day-app .tipcontent {
+    font-size: 16pt;
+}
+    </style>
+</head>
+<body></body>
+</html>

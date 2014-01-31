@@ -94,6 +94,14 @@ if process.env.PROC_MASTER or APP.name is 'repl'
 
             response.send( kanbanApp )
 
+        app.get '/app/tipoftheday', (request, response) ->
+          kanbanApp = {
+            uri: "localhost:3000/repo/tipoftheday/App.html"
+          }
+          response.contentType = 'text/html'
+
+          response.send( kanbanApp )
+
         log "__dirname=#{__dirname}/public"
         app.use express.static("#{__dirname}/public")
 
